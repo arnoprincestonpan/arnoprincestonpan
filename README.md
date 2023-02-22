@@ -9,11 +9,11 @@
 <img align=left src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img align=left src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align=left src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-<img align=left src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img align=left src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />  
 
 # Message
-I am looking for a new opportunity as a Junior Software Developer. Feel free to contact me if you are looking for an software developer. I am open to frontend, fullstack and backend development. Let's be part of something!
+I am looking for a new opportunity as a Junior Software Developer. Feel free to contact me if you are looking for an software developer. I am open to frontend, fullstack and backend development. Let's be part of something!  
 
 # About Me
 I was once a construction estimator and have since transitioned into software development. I fell in love with turning code into working software that I can visually see and manipulate to my own use. At school, I enjoy working with my peers, doing my own tasks, and assist my peers if needed so our groupwork can proceed steadily. Outside programming, I consume multimedia on streaming services particularly in apocalyptic series. 
