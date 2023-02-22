@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />  
 
-# Message
+# Hey! Hi!
 I am looking for a new opportunity as a Junior Software Developer. Feel free to contact me if you are looking for an software developer. I am open to frontend, fullstack and backend development. Let's be part of something!  
 
 # About Me
