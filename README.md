@@ -1,5 +1,5 @@
 # Hello! I am Arno :D.
-<img align=left width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=arnoprincestonpan&show_icons_true&theme=gruvbox" />
+<!-- <img align=left width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=arnoprincestonpan&show_icons_true&theme=gruvbox" /> -->
 <img align=left width="47%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoprincestonpan&layout=compact"  />  
 
 # Languages
