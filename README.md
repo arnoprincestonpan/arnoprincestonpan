@@ -1,6 +1,4 @@
-# Hello! I am Arno :D.
-
-# Hey! Hi!
+# Hey! Hi! I am Arno Pan.
 I am looking for a new opportunity as a Junior Software Developer. Feel free to contact me if you are looking for an software developer. I am open to frontend, fullstack and backend development. Let's be part of something!  
 
 # About Me
