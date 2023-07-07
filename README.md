@@ -29,7 +29,8 @@ I was once a construction estimator and have since transitioned into software de
 <img align=left src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align=left src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
 <img align=left src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align=left src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />  
+<img align=left src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+  
 
 
 <!-- <img align=left width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=arnoprincestonpan&show_icons_true&theme=gruvbox" /> -->
