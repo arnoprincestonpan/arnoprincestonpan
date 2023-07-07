@@ -4,11 +4,6 @@ I am looking for a new opportunity as a Junior Software Developer. Feel free to 
 # About Me
 I was once a construction estimator and have since transitioned into software development. I fell in love with turning code into working software that I can visually see and manipulate to my own use. At school, I enjoy working with my peers, doing my own tasks, and assist my peers if needed so our groupwork can proceed steadily. Outside programming, I consume multimedia on streaming services particularly in apocalyptic series.  
 
-
-# Design
-<img align=left src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img align=left src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />    
-
 # Languages
 <img align=left src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align=left src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
