@@ -1,8 +1,14 @@
-# Hey! Hi! I am Arno Pan.
-I am looking for a new opportunity as a Junior Software Developer. Feel free to contact me if you are looking for an software developer. I am open to frontend, fullstack and backend development. Let's be part of something!  
+👋 Hey there! I'm Arno Pan
+I'm a Full-Stack Developer with a background in Computer Systems Technology from BCIT, specializing in Web & Mobile Development.
 
-# About Me
-I was once a construction estimator and have since transitioned into software development. I fell in love with turning code into working software that I can visually see and manipulate to my own use. At school, I enjoy working with my peers, doing my own tasks, and assist my peers if needed so our groupwork can proceed steadily. Outside programming, I consume multimedia on streaming services particularly in apocalyptic series.  
+🔍 In my previous role as an Associate Product Manager/Owner, I wore multiple hats, including building websites using WordPress, Drupal, custom JavaScript/jQuery, Webflow, and Contentful. I also managed app development for both iOS and Android, overseeing the quality assurance of the applications and the associated server portal.
+
+💡 Outside of coding, I’m into photography, particularly capturing moments with older cameras when I’m out and about.
+
+💼 I’m currently looking for an opportunity to join a team long-term, grow, and contribute to the company’s success by collaborating with a strong group of individuals and making things happen.
+
+📫 Email: arno@jevitty.com
+🔗 LinkedIn: /in/arno-pan/
 
 # Languages
 <img align=left src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
