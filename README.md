@@ -7,7 +7,7 @@ I'm a Full-Stack Developer with a background in Computer Systems Technology from
 
 💼 I’m currently looking for an opportunity to join a team long-term, grow, and contribute to the company’s success by collaborating with a strong group of individuals and making things happen.
 
-📫 Email: arno@jevitty.com
+📫 Email: pan.arno@gmail.com
 🔗 LinkedIn: /in/arno-pan/
 
 # Languages
