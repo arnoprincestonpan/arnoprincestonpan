@@ -19,33 +19,9 @@ In my previous role, I wore multiple hats, including:
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+**Languages:** JavaScript, HTML5, CSS3, PHP, C#, Java, Python, C
 
-* JavaScript
-* HTML5
-* CSS3
-* PHP
-* C#
-* Java
-* Python
-* C
-
-**Frameworks, Platforms, and Libraries:**
-
-* .NET
-* Blazor
-* Bootstrap
-* Drupal
-* Expo
-* Flutter
-* jQuery
-* JWT
-* Laravel
-* NPM
-* Node.js
-* Nodemon
-* React
-* WordPress
+**Frameworks, Platforms, and Libraries:** .NET, Blazor, Bootstrap, Drupal, Expo, Flutter, jQuery, JWT, Laravel, NPM, Node.js, Nodemon, React, WordPress
 
 ---
 
